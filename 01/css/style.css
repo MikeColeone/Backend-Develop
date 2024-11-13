@@ -6,9 +6,9 @@
   display: flex;
   flex-direction: column;  /* 排成列*/
   /* TODO: 请为下方属性填空，不要更改其他选择器里的代码 */
-  flex-wrap: ; 
-  align-content: ;
-  justify-content: ;
+  flex-wrap:wrap;
+  align-content:space-between ;
+  justify-content:space-between;
 
 }
 
